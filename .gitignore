@@ -1,0 +1,16 @@
+# API keys and secrets
+.env
+.env.txt  # Add this line to catch both versions
+config.py
+secrets.json
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+env/
+venv/
+ENV/
